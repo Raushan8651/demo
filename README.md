@@ -1,2 +1,2 @@
 # demo
-my 1st try
+my project using python
